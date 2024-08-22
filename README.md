@@ -6,8 +6,8 @@ Web Developer and Python Developer with experience in web applications using Mon
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_Shhemeem__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/develeporshem/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24054252/shaheen-kp)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Msk012005)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](Dataadded)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shhemeem)
 
 ## 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -44,7 +44,7 @@ Web Developer and Python Developer with experience in web applications using Mon
 </div>
 
 # 🌐 Personal Webpage
-Check out my personal website: [Shhemeem's Personal Website](https://mscode04.github.io/PERSONAL-WEBSITE/)
+Check out my personal website: [Shhemeem's Personal Website](https/)
 
 ---
 
