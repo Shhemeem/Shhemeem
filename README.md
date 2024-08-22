@@ -1,10 +1,10 @@
-<h2 align="left">Hi There, I'm Mohammed Shaheen KP<br>MERN Stack Developer</h2>
+<h2 align="left">Hi There, I'm Mohammed Shemeem kuzhiyengal paloli<br>Freelance Web Developer</h2>
 
 # 💫 About Me
-MERN Stack Developer and Python Developer with experience in web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in Python for backend and UI projects, with expertise in database management and API integration. Strong problem-solving skills and a passion for web design.
+Web Developer and Python Developer with experience in web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in Python for backend and UI projects, with expertise in database management and API integration. Strong problem-solving skills and a passion for web design.
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/___zcl3_/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_Shhemeem__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shaheen-kp-40076b2b5/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24054252/shaheen-kp)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Msk012005)
