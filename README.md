@@ -8,7 +8,7 @@ Web Developer and Python Developer with experience in web applications using Mon
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/develeporshem/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26953941/mohammed-shemeem-kp)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D100.svg?logo=whatsapp&logoColor=white)](https://wa.me/9747640988)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shhemeem)
+[![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shhemeem)
 [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?logo=gitlab&logoColor=white)](https://gitlab.com/Shhemmeem)
  
 
