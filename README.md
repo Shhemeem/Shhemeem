@@ -1,4 +1,4 @@
-<h2 align="left">Hi There, I'm Mohammed Shemeem kuzhiyengal paloli<br>Freelance Web Developer</h2>
+<h2 align="left">Hi There, I'm Mohammed Shemeem kuzhiyengal paloli<br></h2>
 
 # 💫 About Me
 Web Developer and Python Developer with experience in web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in Python for backend and UI projects, with expertise in database management and API integration. Strong problem-solving skills and a passion for web design.
