@@ -1,116 +1,54 @@
-<!-- Header Section - 3D Wave Effect -->
+<h2 align="left">Hi There, I'm Mohammed Shemeem kuzhiyengal paloli<br></h2>
 
+# 💫 About Me
+Web Developer and Python Developer with experience in web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in Python for backend and UI projects, with expertise in database management and API integration. Strong problem-solving skills and a passion for web design.
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_Shhemeem__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/develeporshem/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26953941/mohammed-shemeem-kp)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D100.svg?logo=whatsapp&logoColor=white)](https://wa.me/9747640988)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shhemeem)
+[![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?logo=gitlab&logoColor=white)](https://gitlab.com/Shhemmeem)
+ 
+
+## 💻 Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+
+# 📊 GitHub Stats
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,2,25,30%26height%3D280%26section%3Dheader%26text%3DMohammed%2520Shemeem%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DFull%2520Stack%2520Developer%2520%257C%2520Python%2520%257C%2520React%26descAlignY%3D55%26descAlign%3D50" width="100%" />
+  <a href="https://github.com/Shhemeem/github-readme-stats">
+    <img alt="Shhemeem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shhemeem&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="192px"/>
+  </a>
+  <a href="https://github.com/Shhemeem/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shhemeem's streak" src="https://streak-stats.demolab.com/?user=Shhemeem&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Shhemeem/github-readme-stats">
+    <img alt="Shhemeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shhemeem&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/>
+  </a>
 </div>
 
-<!-- Main Content "Website" Layout -->
-
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<!-- LEFT COLUMN: Profile & Intro -->
-<td width="50%" valign="top">
+# 🗂️ Contribution Graph
 <div align="center">
-
-
-
-
-
-<!-- 3D Avatar / Gif -->
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);" />
-
-
-
-
-
-
-    <!-- Typing Effect -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=380&lines=Building+Scalable+Web+Apps;Python+Backend+Architecture;Futuristic+UI+Design;Open+Source+Contributor" alt="Typing SVG" />
-    </a>
-    
-    <br/>
-    
-    <!-- Social "Buttons" -->
-    <h3>🌐 Connect</h3>
-    <p>
-      <a href="https://www.instagram.com/_Shhemeem__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25"/></a>
-      <a href="https://www.linkedin.com/in/develeporshem/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
-      <br/>
-      <a href="https://stackoverflow.com/users/26953941/mohammed-shemeem-kp"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="25"/></a>
-      <a href="https://wa.me/9747640988"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/></a>
-      <br/>
-      <a href="https://x.com/Shhemeem"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25"/></a>
-      <a href="https://gitlab.com/Shhemmeem"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="25"/></a>
-    </p>
-  </div>
-</td>
-
-<!-- RIGHT COLUMN: About & Stack -->
-<td width="50%" valign="top">
-  <br/>
-  <h3>⚡ About Me</h3>
-  <blockquote>
-    Full Stack Web Developer specialized in <b>MERN Stack</b> and <b>Python</b>. I build high-performance web applications with a focus on database management, API integration, and futuristic UI/UX.
-  </blockquote>
-  
-  <br/>
-  
-  <h3>🚀 Tech Arsenal</h3>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,mysql,html,css,js,bootstrap,github,vscode,postman,linux&perline=6" />
-  </div>
-</td>
-
-
-</tr>
-</table>
-
-<!-- DASHBOARD STATS SECTION -->
-
-<h2 align="center">📊 Developer Dashboard</h2>
-
-<table align="center" width="100%" style="border-collapse: collapse;">
-<tr>
-<td align="center" width="50%">
-<!-- Github Stats Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DShhemeem%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" width="100%" />
-</td>
-<td align="center" width="50%">
-<!-- Top Languages Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DShhemeem%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26langs_count%3D6" width="100%" />
-</td>
-</tr>
-</table>
-
-<!-- Full Width Streak Stat -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DShhemeem%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D3399FF%26fire%3D3399FF%26currStreakLabel%3D3399FF" width="90%" />
+  <a href="https://github.com/Shhemeem/github-readme-activity-graph">
+    <img alt="Shhemeem's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Shhemeem&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+  </a>
 </div>
 
-<!-- 3D SECTION -->
+# 🌐 Personal Webpage
+Check out my personal website: [Shhemeem's Personal Website](https/)
 
-<h2 align="center">🧩 3D Contributions & Activity</h2>
+---
 
-<!-- Snake Animation -->
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Shhemeem/Shhemeem/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Shhemeem/Shhemeem/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/Shhemeem/Shhemeem/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-</div>
-
-<!-- Isometric Graph -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph/%3Fusername%3DShhemeem%26bg_color%3D0D1117%26color%3D3399FF%26line%3Dbc8cff%26point%3DFFFFFF%26hide_border%3Dtrue%26area%3Dtrue" width="100%"/>
-</div>
-
-<!-- Footer Wave -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,2,25,30%26height%3D120%26section%3Dfooter"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
